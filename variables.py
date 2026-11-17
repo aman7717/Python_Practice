@@ -1,0 +1,11 @@
+Name = input("What is your name? ")
+Age = input("How old are you? ")
+Country = input("Where are you from? ")
+Favourite_Language = input("What is your favourite programming language? ")
+Favourite_food = input("What is your favourite food? ")
+
+print("My name is", Name)
+print("I am", Age, "years old")
+print("I am from", Country)
+print("My favourite programming language is", Favourite_Language)
+print("My favourite food is", Favourite_food)
